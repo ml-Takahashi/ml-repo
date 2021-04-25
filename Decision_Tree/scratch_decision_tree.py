@@ -4,6 +4,7 @@ from information_gain import information_gain2
 from calc_gini import calc_gini2
 import scipy
 
+
 class ScratchDecesionTreeClassifierDepth2():
     """
     深さ2の決定木分類器のスクラッチ実装
